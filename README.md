@@ -1,1 +1,1 @@
-# HTML_CSS - Modulul 2 - Lecția 4 - Text și Font
+# HTML_CSS - Modulul 4 - Lecția 7 - Efecte decorative si elemente
